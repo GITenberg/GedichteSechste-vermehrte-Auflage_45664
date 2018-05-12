@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43402'
     url: http://www.gutenberg.org/2009/agents/43402
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45664#GedichteSechste-vermehrte-Auflage
 gutenberg_issued: '2014-05-16'
 gutenberg_type: Text
 identifiers:
